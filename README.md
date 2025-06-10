@@ -1,7 +1,7 @@
 # nltk_tensorflow_chatbot
 This project processes the Twitter Customer Support (TWCS) dataset to generate structured chatbot training data in the intents.json format. It is designed to work with NLTK + TensorFlow chatbot architectures.
 
-**#📌 Objective**
+**📌 Objective**
 To convert real customer support conversations from the TWCS dataset into a structured format usable by a chatbot. This enables the creation of more contextually relevant, real-world conversational agents.
 
 **🧾 Dataset**
